@@ -1,6 +1,6 @@
 Package: HarmonizR
 Title: Handles missing values and makes more data available
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: 
     c(person(given = "Simon",
              family = "Schlumbohm",
